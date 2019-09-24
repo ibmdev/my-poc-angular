@@ -10,3 +10,9 @@ https://www.techiediaries.com/angular-file-upload-progress-bar/
 > sudo npm i -g @nestjs/cli <br/>
 > sudo npm run start:dev <br/>
 > http://localhost:3000/ <br/>
+
+## Front End
+
+> ng new frontend <br/>
+> ng serve <br/>
+
